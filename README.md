@@ -1,9 +1,13 @@
 
 # Frontend Project - FAQ Management UI
 
+
+
 ## Overview
 
 This project provides the frontend UI for managing **FAQs (Frequently Asked Questions)**. Built using **React.js**, the UI is designed to allow users to view and manage FAQs in an intuitive and responsive way.
+
+---
 
 ## Features
 
@@ -12,6 +16,8 @@ This project provides the frontend UI for managing **FAQs (Frequently Asked Ques
 - **Loading & Error States**: Shows loading spinner when data is fetching and an error message if there is an issue.
 - **Responsive Design**: The UI is fully responsive, adjusting for desktop, tablet, and mobile screens.
 
+---
+
 ## Technologies Used
 
 - **React.js**: For building the user interface.
@@ -19,6 +25,8 @@ This project provides the frontend UI for managing **FAQs (Frequently Asked Ques
 - **Axios**: For making API calls to the backend.
 - **React Router**: For routing between different pages.
 - **React Hooks**: For state management and side effects.
+
+---
 
 ## Installation
 
@@ -44,6 +52,8 @@ This project provides the frontend UI for managing **FAQs (Frequently Asked Ques
 
    The frontend should now be running at `http://localhost:3000`.
 
+---
+
 ## Components
 
 ### 1. **FaqForm**
@@ -55,23 +65,23 @@ The **FaqList** component displays all the FAQs in a grid format. It supports lo
 ### 3. **LanguageSelector**
 The **LanguageSelector** component allows users to select the language for the FAQs (e.g., English, Hindi, Urdu, Bengali).
 
+
+---
+
+
 ## Snapshots
 
 ### 1. **Admin Panel**
 Below is a snapshot of the **Admin Panel** for managing FAQs:
-![Admin Panel](https://via.placeholder.com/600x400.png)
+![Admin Panel](public/ui1)
 
 ### 2. **FAQ List**
 A snapshot of how the FAQs are listed:
-![FAQ List](https://via.placeholder.com/600x400.png)
+![FAQ List](public/ui2)
 
-### 3. **Loading State**
-The loading state when FAQs are being fetched:
-![Loading State](https://via.placeholder.com/600x400.png)
 
-### 4. **Error State**
-The error state in case of failure to fetch FAQs:
-![Error State](https://via.placeholder.com/600x400.png)
+---
+
 
 ## Contributing
 
@@ -96,6 +106,24 @@ Feel free to fork this repository and submit pull requests. All contributions ar
    ```
 6. Open a pull request from your branch.
 
-## License
+---
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Contact Developer: Vivek Shaurya
+
+You can reach out to Vivek Shaurya through the following channels:
+
+### 📧 **Email**:
+- [vivek@example.com](mailto:vivekshaurya62@example.com)
+
+### 💻 **GitHub**:
+- [Vivek's GitHub Profile](https://github.com/MRPERFECT0603)
+
+### 🔗 **LinkedIn**:
+- [Vivek's LinkedIn Profile](https://www.linkedin.com/in/vivek-shaurya/)
+
+### 📱 **Phone**:
+- Available upon request
+
+Feel free to reach out for project collaborations, questions, or contributions to open-source projects!
+
+
