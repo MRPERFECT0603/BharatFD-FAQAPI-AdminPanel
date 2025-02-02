@@ -13,7 +13,6 @@ This project provides the frontend UI for managing **FAQs (Frequently Asked Ques
 
 - **Display FAQs**: Users can view a list of FAQs.
 - **Add FAQ**: Admins can add new FAQs with a question and an answer.
-- **Loading & Error States**: Shows loading spinner when data is fetching and an error message if there is an issue.
 - **Responsive Design**: The UI is fully responsive, adjusting for desktop, tablet, and mobile screens.
 
 ---
@@ -32,7 +31,7 @@ This project provides the frontend UI for managing **FAQs (Frequently Asked Ques
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/faq-frontend.git
+   git clone https://github.com/MRPERFECT0603/BharatFD-FAQAPI-AdminPanel.git
    ```
 
 2. Navigate to the project directory:
@@ -47,7 +46,7 @@ This project provides the frontend UI for managing **FAQs (Frequently Asked Ques
 
 4. Run the application:
    ```bash
-   npm start
+   npm run dev
    ```
 
    The frontend should now be running at `http://localhost:3000`.
@@ -90,7 +89,7 @@ Feel free to fork this repository and submit pull requests. All contributions ar
 1. Fork the repository.
 2. Clone your fork:
    ```bash
-   git clone https://github.com/your-username/faq-frontend.git
+   git clone https://github.com/MRPERFECT0603/BharatFD-FAQAPI-AdminPanel.git
    ```
 3. Create a new branch:
    ```bash
