@@ -73,11 +73,11 @@ The **LanguageSelector** component allows users to select the language for the F
 
 ### 1. **Admin Panel**
 Below is a snapshot of the **Admin Panel** for managing FAQs:
-![Admin Panel](public/ui1)
+![Admin Panel](./public/ui1.png)
 
 ### 2. **FAQ List**
 A snapshot of how the FAQs are listed:
-![FAQ List](public/ui2)
+![FAQ List](./public/ui2.png)
 
 
 ---
@@ -113,7 +113,7 @@ Feel free to fork this repository and submit pull requests. All contributions ar
 You can reach out to Vivek Shaurya through the following channels:
 
 ### 📧 **Email**:
-- [vivek@example.com](mailto:vivekshaurya62@example.com)
+- [vivekshaurya62@gmail.com](mailto:vivekshaurya62@example.com)
 
 ### 💻 **GitHub**:
 - [Vivek's GitHub Profile](https://github.com/MRPERFECT0603)
